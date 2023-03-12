@@ -1,0 +1,24 @@
+#welcome{
+    text-align: center;
+    max-width: 500px;
+}
+
+#welcome h2, #welcome p{
+    margin-bottom: 1rem;
+    /*text-align: justify;*/
+}
+
+#welcome p{
+    color: #E83AAC;
+    font-size: 1.1rem;
+}
+
+#welcome img{
+    margin-top: 2rem;
+    height: 350px;
+}
+
+#welcome h1{
+    color: #E83AAC;
+    font-size: 2rem;
+}

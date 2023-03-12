@@ -1,0 +1,18 @@
+.option{
+    background-color: #B52D86;
+    border-radius: .5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: .8;
+    transition: .4s;
+}
+
+.option:hover{
+    opacity: 1;
+}
+
+.option:active{  
+    background: linear-gradient(90deg, rgb(255, 0, 157) 100%, #fab9e3 0%); 
+    transform: translateY(4px);
+}
